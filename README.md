@@ -9,15 +9,17 @@ This project demonstrates GIS workflows in Python, including visualising and exp
 
 ## Requirements
 Install dependencies using:
-```bash
+
 pip install -r requirements.txt
 
 ## How to Run
 Open notebooks/script.py.ipynb in Jupyter Notebook.
 Follow the instructions to load data and create visualisations.
+
 ## Outputs
 Processed data is saved in the outputs/ folder.
 Example outputs include populated_places_points.geojson and an interactive map (populated_places_map.html).
+
 ## File Structure
 bash
 Copy code
