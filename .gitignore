@@ -16,3 +16,7 @@ data/*.prj
 
 # Ignore HTML outputs
 *.html
+
+# Ignore GeoJSON outputs
+*.geojson
+
