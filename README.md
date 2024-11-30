@@ -30,3 +30,4 @@ population_map/
 ├── .gitignore                      # Ignore unnecessary files
 ├── README.md                       # Project description
 └── requirements.txt                # Python dependencies
+└── LICENSE                         # MIT LICENSE file
