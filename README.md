@@ -21,7 +21,7 @@ Processed data is saved in the outputs/ folder.
 Example outputs include populated_places_points.geojson and an interactive map (populated_places_map.html).
 
 ## File Structure
-bash
+```bash
 Copy code
 population_map/
 ├── data/                           # Raw input datasets
